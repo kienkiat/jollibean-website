@@ -1,0 +1,230 @@
+@import "../sass/variables-site/colors";
+::selection {
+    background: $color__theme-main none repeat scroll 0 0;
+}
+*::-moz-selection {
+    background: $color__theme-main none repeat scroll 0 0;
+}
+a:hover, a:focus, a:active {
+    color: $color__theme-main;
+}
+label a {
+    color: $color__theme-main;
+}
+.post-details .entry-content a,
+.btn,
+.social-link a,
+.rotate .cat-links a,
+.layout-five .single-row-col .post-media .rotate .cat-links a,
+.link-home a,
+#author-details .authors-social a,
+.tag a,
+#submit, 
+.scroll-top a,
+.entry-meta span a,
+.more-link,
+.follow-link a {
+    &:hover { 
+        color: $color__theme-main;
+    }
+}
+
+.meta-content .meta-cat {
+    color: $color__theme-main;
+}
+.slider-content .slider-navigation .owl-item.active li.active:before {
+    border-color: $color__theme-main;
+}
+.slider-content .slider-navigation .meta-cat {
+    color: $color__theme-main;
+}
+
+.social-link a,
+.error-page .error-page-list .error-search .btn-default,
+#author-slider .owl-controls .owl-nav > div, 
+#featured-product-slide .owl-controls .owl-nav > div {
+    &:hover i{
+        color: $color__theme-main !important;
+    }
+}
+.navigation  .menu-list li {
+    &:hover > a {
+        color: $color__theme-main !important;
+    }
+    .sub-menu > li:hover > a {
+        color: $color__theme-main !important;
+    }
+}
+
+.error-page .error-page-list .error-search .btn-default:hover {
+    border-color: $color__theme-main !important;
+}
+.btn:hover,
+.btn.btn-default,
+.comment-reply-link,
+.form-submit #submit {
+    &:hover {
+        background-color: rgba($color__theme-main, 0.85);
+    }
+}
+
+.site-header .social-links a:hover {
+    color: $color__theme-main;
+}
+//Title
+.section-title-area,
+.hotel-room-section-title .section-title  {
+    span {
+        color: $color__theme-main;
+    }
+}
+
+// Button
+.btn.active.focus, 
+.btn.active:focus, 
+.btn.focus, 
+.btn:active.focus, 
+.btn:active:focus, 
+.btn:focus,
+.btn:hover {
+    background-color: rgba($color__theme-main, 0.85);
+}
+.btn-offer {
+    border-color: $color__theme-main; 
+    > span {
+        color: $color__theme-main;
+    }
+}
+.btn-default:hover {
+    background-color: $color__theme-main;
+} 
+.btn-details {
+    background-color: $color__theme-main;
+}
+.btn-submit {
+    background-color: $color__theme-main;
+}
+.link-home:hover {
+    border-color: $color__theme-main;
+}
+.header-top .col-md-4 .search-area .header-search .form-controller {
+    border-color: $color__theme-main;
+}
+.timer-content-area .social-share > a:hover {
+    background-color: $color__theme-main;
+}
+.single-spa-pricing .price {
+    color: $color__theme-main;
+}
+.gallery-filter-menu > li > a:hover {
+    background-color: $color__theme-main;
+    border-color: $color__theme-main;
+}
+.section-align-title-area .section-align-sub-title {
+    color: $color__theme-main;
+}
+.section-title-area .section-name {
+   color: $color__theme-main; 
+}
+
+// Home slider Color
+.welcome-slider {
+    .style-one {
+        .image-before .heading h2 {
+            color: $color__theme-main;
+        }
+    }
+    .style-two {
+        .slider-heading-main {
+            color: $color__theme-main;
+        }
+        .image-before {
+            .heading h2 {
+                color: $color__theme-main;
+            }
+        }
+    }
+}
+.booking-with-chif.margin-top .sub-heading-title {
+    color: $color__theme-main;
+}
+.our-experts-chefs .item .author-designation {
+    color: $color__theme-main;
+}
+.online-book-form {
+    &.color-two {
+        background-color: $color__theme-main;
+    }
+}
+.menu-item-one .menu-title {
+    color: $color__theme-main;
+}
+.menu-item-two .item-price {
+    color: $color__theme-main;
+}
+.owl-dot.active {
+    background: $color__theme-main;
+}
+.section-align-title span {
+    color: $color__theme-main;
+}
+.special-tab-content .nav-tabs > li > a:hover:before, 
+.special-tab-content .nav-tabs > li.active > a:before, 
+.special-tab-content .nav-tabs > li.active > a:focus:before, 
+.special-tab-content .nav-tabs > li.active > a:hover:before {
+    background: $color__theme-main;
+}
+
+.our-experts-chefs .tab-pane .author-designation {
+    color: $color__theme-main;
+}
+.gallery-item-content .overlay-gallery {
+    background: rgba($color__theme-main, 0.75);
+}
+
+.online-book-section.style-two .section-title-area .title-box-inner,
+.online-book-section.style-two .form-content {
+    background: $color__theme-main;
+}
+.online-book-section.style-two .form-content input {
+    border-color: $color__theme-main;
+}
+.best-place-section.best-place-style-two .btn.btn-default {
+    background: $color__theme-main;
+}
+.place-overlay-outer {
+    background-color: rgba($color__theme-main, 0.8);
+}
+.customer-reviews {
+    .owl-controls {
+        .owl-dots > div {
+            &.active {
+                background-color: $color__theme-main;
+            }
+        }
+    }
+}
+.shop-single-area .price h2 {
+    color: $color__theme-main;
+}
+.review-single-content .review-form .btn.btn-default:hover {
+    background-color: $color__theme-main;
+}
+.single-event.list .event-title {
+    color: $color__theme-main;
+}
+.single-event .col-md-6:nth-child(even):before {
+    background-color: $color__theme-main;
+}
+.gallery-filter-menu li.current-tab a {
+    background-color: $color__theme-main;
+}
+
+.widget-opening-hour {
+    li:hover {
+        color: $color__theme-main;
+    }
+    li.offday {
+        color: $color__theme-main;
+    }
+}

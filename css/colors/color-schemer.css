@@ -1,0 +1,236 @@
+::selection {
+  background: #e7272d none repeat scroll 0 0;
+}
+
+*::-moz-selection {
+  background: #e7272d none repeat scroll 0 0;
+}
+
+a:hover, a:focus, a:active {
+  color: #e7272d;
+}
+
+label a {
+  color: #e7272d;
+}
+
+.post-details .entry-content a:hover,
+.btn:hover,
+.social-link a:hover,
+.rotate .cat-links a:hover,
+.layout-five .single-row-col .post-media .rotate .cat-links a:hover,
+.link-home a:hover,
+#author-details .authors-social a:hover,
+.tag a:hover,
+#submit:hover,
+.scroll-top a:hover,
+.entry-meta span a:hover,
+.more-link:hover,
+.follow-link a:hover {
+  color: #e7272d;
+}
+
+.meta-content .meta-cat {
+  color: #e7272d;
+}
+
+.slider-content .slider-navigation .owl-item.active li.active:before {
+  border-color: #e7272d;
+}
+
+.slider-content .slider-navigation .meta-cat {
+  color: #e7272d;
+}
+
+.social-link a:hover i,
+.error-page .error-page-list .error-search .btn-default:hover i,
+#author-slider .owl-controls .owl-nav > div:hover i,
+#featured-product-slide .owl-controls .owl-nav > div:hover i {
+  color: #e7272d !important;
+}
+
+.navigation .menu-list li:hover > a {
+  color: #e7272d !important;
+}
+.navigation .menu-list li .sub-menu > li:hover > a {
+  color: #e7272d !important;
+}
+
+.error-page .error-page-list .error-search .btn-default:hover {
+  border-color: #e7272d !important;
+}
+
+.btn:hover:hover,
+.btn.btn-default:hover,
+.comment-reply-link:hover,
+.form-submit #submit:hover {
+  background-color: rgba(255, 255, 255, 0.85);;
+}
+
+.site-header .social-links a:hover {
+  color: #e7272d;
+}
+
+.section-title-area span,
+.hotel-room-section-title .section-title span {
+  color: #e7272d;
+}
+
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus,
+.btn:hover {
+  background-color: rgba(231, 39, 45, 0.85);
+}
+
+.btn-offer {
+  border-color: #e7272d;
+}
+.btn-offer > span {
+  color: #e7272d;
+}
+
+.btn-default:hover {
+  background-color: #e7272d;
+}
+
+.btn-details {
+  background-color: #e7272d;
+}
+
+.btn-submit {
+  background-color: #e7272d;
+}
+
+.link-home:hover {
+  border-color: #e7272d;
+}
+
+.header-top .col-md-4 .search-area .header-search .form-controller {
+  border-color: #e7272d;
+}
+
+.timer-content-area .social-share > a:hover {
+  background-color: #e7272d;
+}
+
+.single-spa-pricing .price {
+  color: #e7272d;
+}
+
+.gallery-filter-menu > li > a:hover {
+  background-color: #00a350;
+  border-color: #00a350;
+}
+
+.section-align-title-area .section-align-sub-title {
+  color: #e7272d;
+}
+
+.section-title-area .section-name {
+  color: #e7272d;
+}
+
+.welcome-slider .style-one .image-before .heading h2 {
+  color: #e7272d;
+}
+.welcome-slider .style-two .slider-heading-main {
+  color: #e7272d;
+}
+.welcome-slider .style-two .image-before .heading h2 {
+  color: #e7272d;
+}
+
+.booking-with-chif.margin-top .sub-heading-title {
+  color: #e7272d;
+}
+
+.our-experts-chefs .item .author-designation {
+  color: #e7272d;
+}
+
+.online-book-form.color-two {
+  background-color: #e7272d;
+}
+
+.menu-item-one .menu-title {
+  color: #e7272d;
+}
+
+.menu-item-two .item-price {
+  color: #e7272d;
+}
+
+.owl-dot.active {
+  background: #e7272d;
+}
+
+.section-align-title span {
+  color: #e7272d;
+}
+
+.special-tab-content .nav-tabs > li > a:hover:before,
+.special-tab-content .nav-tabs > li.active > a:before,
+.special-tab-content .nav-tabs > li.active > a:focus:before,
+.special-tab-content .nav-tabs > li.active > a:hover:before {
+  background: #e7272d;
+}
+
+.our-experts-chefs .tab-pane .author-designation {
+  color: #e7272d;
+}
+
+.gallery-item-content .overlay-gallery {
+  background: rgba(0, 163, 80, 0.75);
+}
+
+.online-book-section.style-two .section-title-area .title-box-inner,
+.online-book-section.style-two .form-content {
+  background: #e7272d;
+}
+
+.online-book-section.style-two .form-content input {
+  border-color: #e7272d;
+}
+
+.best-place-section.best-place-style-two .btn.btn-default {
+  background: #e7272d;
+}
+
+.place-overlay-outer {
+  background-color: rgba(231, 39, 45, 0.8);
+}
+
+.customer-reviews .owl-controls .owl-dots > div.active {
+  background-color: #e7272d;
+}
+
+.shop-single-area .price h2 {
+  color: #e7272d;
+}
+
+.review-single-content .review-form .btn.btn-default:hover {
+  background-color: #e7272d;
+}
+
+.single-event.list .event-title {
+  color: #e7272d;
+}
+
+.single-event .col-md-6:nth-child(even):before {
+  background-color:  #00a350;
+}
+
+.gallery-filter-menu li.current-tab a {
+  background-color: #00a350;
+}
+
+.widget-opening-hour li:hover {
+  color: #e7272d;
+}
+.widget-opening-hour li.offday {
+  color: #e7272d;
+}
